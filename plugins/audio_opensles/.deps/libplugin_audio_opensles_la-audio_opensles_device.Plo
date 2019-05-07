@@ -1,0 +1,100 @@
+libplugin_audio_opensles_la-audio_opensles_device.lo: \
+ audio_opensles_device.cxx audio_opensles_device.h \
+ audio_opensles_config.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/lib/gcc/i686-linux-android/4.9.x/include/stdint.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/stdint.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/lib/gcc/i686-linux-android/4.9.x/include/stddef.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/_types.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/machine/_types.h \
+ ../../config.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/android/log.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/lib/gcc/i686-linux-android/4.9.x/include/stdarg.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/SLES/OpenSLES.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/SLES/OpenSLES_Platform.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/SLES/OpenSLES_Android.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/SLES/OpenSLES.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/SLES/OpenSLES_AndroidConfiguration.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/stdio.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/cdefs.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/cdefs_elf.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/android/api-level.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/types.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/posix_types.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/stddef.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/compiler.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/lib/gcc/i686-linux-android/4.9.x/include-fixed/asm/posix_types.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/features.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/posix_types.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/posix_types_32.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/types.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/types.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/machine/kernel.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/sysmacros.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/string.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/malloc.h
+
+audio_opensles_device.h:
+
+audio_opensles_config.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/lib/gcc/i686-linux-android/4.9.x/include/stdint.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/stdint.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/lib/gcc/i686-linux-android/4.9.x/include/stddef.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/_types.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/machine/_types.h:
+
+../../config.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/android/log.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/lib/gcc/i686-linux-android/4.9.x/include/stdarg.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/SLES/OpenSLES.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/SLES/OpenSLES_Platform.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/SLES/OpenSLES_Android.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/SLES/OpenSLES.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/SLES/OpenSLES_AndroidConfiguration.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/stdio.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/cdefs.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/cdefs_elf.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/android/api-level.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/types.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/posix_types.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/stddef.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/compiler.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/lib/gcc/i686-linux-android/4.9.x/include-fixed/asm/posix_types.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/features.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/posix_types.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/posix_types_32.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/types.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/types.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/machine/kernel.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/sysmacros.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/string.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/malloc.h:

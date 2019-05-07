@@ -1,0 +1,678 @@
+src/t140/libtinyDAV_la-tdav_session_t140.lo: src/t140/tdav_session_t140.c \
+ include/tinydav/t140/tdav_session_t140.h include/tinydav_config.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/lib/gcc/i686-linux-android/4.9.x/include/stdint.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/stdint.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/lib/gcc/i686-linux-android/4.9.x/include/stddef.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/_types.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/machine/_types.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/_wchar_limits.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/android/api-level.h \
+ ../config.h include/tinydav/tdav_session_av.h \
+ ../tinyMEDIA/include/tinymedia/tmedia_session.h \
+ ../tinyMEDIA/include/tinymedia_config.h \
+ ../tinyMEDIA/include/tinymedia/tmedia_codec.h \
+ ../tinyMEDIA/include/tinymedia/tmedia_common.h \
+ ../tinySAK/src/tsk_plugin.h ../tinySAK/src/tinysak_config.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/string.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/cdefs.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/cdefs_elf.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/malloc.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/lib/gcc/i686-linux-android/4.9.x/include/stdarg.h \
+ ../tinySAK/src/tsk_common.h ../tinySAK/src/tsk_object.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/stdio.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/types.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/posix_types.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/stddef.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/compiler.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/lib/gcc/i686-linux-android/4.9.x/include-fixed/asm/posix_types.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/features.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/posix_types.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/posix_types_32.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/types.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/types.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/machine/kernel.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/sysmacros.h \
+ ../tinySAK/src/tsk_object.h ../tinySAK/src/tsk_list.h \
+ ../tinySAK/src/tsk_mutex.h ../tinyMEDIA/include/tinymedia/tmedia_qos.h \
+ ../tinySDP/include/tinysdp/tsdp_message.h \
+ ../tinySDP/include/tinysdp_config.h \
+ ../tinySDP/include/tinysdp/headers/tsdp_header.h \
+ ../tinySAK/src/tsk_ragel_state.h ../tinySAK/src/tsk_params.h \
+ ../tinySAK/src/tsk_list.h ../tinySAK/src/tsk_buffer.h \
+ ../tinySDP/include/tinysdp/headers/tsdp_header_M.h \
+ ../tinySDP/include/tinysdp/headers/tsdp_header_A.h \
+ ../tinySDP/include/tinysdp/headers/tsdp_header_B.h \
+ ../tinySDP/include/tinysdp/headers/tsdp_header_C.h \
+ ../tinySDP/include/tinysdp/headers/tsdp_header_I.h \
+ ../tinySDP/include/tinysdp/headers/tsdp_header_K.h \
+ ../tinySAK/src/tsk_string.h \
+ ../tinyMEDIA/include/tinymedia/tmedia_params.h \
+ ../tinyMEDIA/include/tinymedia/tmedia_common.h ../tinyNET/src/tnet_nat.h \
+ ../tinyNET/src/tinynet_config.h ../tinyNET/src/tnet_socket.h \
+ ../tinyNET/src/tnet_types.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/socket.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/socket.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/socket.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm-generic/socket.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/sockios.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/sockios.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/uio.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/select.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/time.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/time.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/signal.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/lib/gcc/i686-linux-android/4.9.x/include-fixed/limits.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/lib/gcc/i686-linux-android/4.9.x/include-fixed/syslimits.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/limits.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/limits.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/limits.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/machine/internal_types.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/machine/limits.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/syslimits.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/page.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/page_32.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/signal.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm-generic/signal.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/sigcontext.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/siginfo.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm-generic/siginfo.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/ucontext.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/user.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/netinet/in.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/endian.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/endian.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/in.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/byteorder.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/byteorder/little_endian.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/byteorder/swab.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/byteorder/generic.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/in6.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/ipv6.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/netinet/in6.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/arpa/inet.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/netdb.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/fcntl.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/fcntl.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/fcntl.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm-generic/fcntl.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/unistd.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/sysconf.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/capability.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/pathconf.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/ioctl.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/ioctl.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/ioctl.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm-generic/ioctl.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/ioctls.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/termbits.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/ioctl_compat.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/net/if.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/if.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/hdlc/ioctl.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/poll.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/poll.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/poll.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm-generic/poll.h \
+ ../tinySAK/src/tsk_errno.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/errno.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/errno.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/errno.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm-generic/errno.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm-generic/errno-base.h \
+ ../tinyNET/src/tls/tnet_tls.h ../tinyNET/src/tinynet_config.h \
+ ../tinyNET/src/tnet_types.h ../tinyNET/src/tls/tnet_dtls.h \
+ ../tinyNET/src/stun/tnet_stun_types.h ../tinySAK/src/tsk_debug.h \
+ ../tinySAK/src/tsk_safeobj.h ../tinySAK/src/tsk_timer.h \
+ include/tinydav/t140/tdav_consumer_t140.h \
+ ../tinyMEDIA/include/tinymedia/tmedia_consumer.h \
+ include/tinydav/t140/tdav_producer_t140.h \
+ ../tinyMEDIA/include/tinymedia/tmedia_producer.h \
+ include/tinydav/codecs/fec/tdav_codec_red.h \
+ ../tinyMEDIA/include/tinymedia/tmedia_defaults.h \
+ ../tinyRTP/include/tinyrtp/trtp_manager.h \
+ ../tinyRTP/include/tinyrtp_config.h \
+ ../tinyRTP/include/tinyrtp/rtp/trtp_rtp_session.h \
+ ../tinyRTP/include/tinyrtp/rtcp/trtp_rtcp_session.h \
+ ../tinyRTP/include/tinyrtp/trtp_srtp.h ../tinySAK/src/tsk_common.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/srtp.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/crypto_kernel.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/rand_source.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/err.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/datatypes.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/integers.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/config.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/stdlib.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/alloca.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/strings.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/memory.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/inttypes.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/alloc.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/time.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/byteswap.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/prng.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/aes.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/gf2_8.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/aes_icm.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/cipher.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/rdbx.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/crypto.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/crypto_types.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/auth.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/cryptoalg.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/stat.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/key.h \
+ ../tinyNET/src/tinynet.h ../tinySAK/src/tsk.h \
+ ../tinySAK/src/tsk_string.h ../tinySAK/src/tsk_memory.h \
+ ../tinySAK/src/tsk_url.h ../tinySAK/src/tsk_plugin.h \
+ ../tinySAK/src/tsk_options.h ../tinySAK/src/tsk_fsm.h \
+ ../tinySAK/src/tsk_safeobj.h ../tinySAK/src/tsk_time.h \
+ ../tinySAK/src/tsk_timer.h ../tinySAK/src/tsk_condwait.h \
+ ../tinySAK/src/tsk_semaphore.h ../tinySAK/src/tsk_thread.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/pthread.h \
+ /Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sched.h \
+ ../tinySAK/src/tsk_runnable.h ../tinySAK/src/tsk_debug.h \
+ ../tinySAK/src/tsk_ppfcs16.h ../tinySAK/src/tsk_sha1.h \
+ ../tinySAK/src/tsk_md5.h ../tinySAK/src/tsk_hmac.h \
+ ../tinySAK/src/tsk_base64.h ../tinySAK/src/tsk_uuid.h \
+ ../tinySAK/src/tsk_ragel_state.h ../tinyNET/src/tnet.h \
+ ../tinyNET/src/tnet_endianness.h ../tinyNET/src/tnet_nat.h \
+ ../tinyNET/src/tnet_transport.h ../tinyNET/src/tnet_utils.h \
+ ../tinySAK/src/tsk_runnable.h ../tinyNET/src/tnet_proxy_plugin.h \
+ ../tinyNET/src/stun/tnet_stun.h ../tinyNET/src/ice/tnet_ice_event.h \
+ ../tinyNET/src/ice/tnet_ice_candidate.h \
+ ../tinyNET/src/stun/tnet_stun_pkt.h ../tinyNET/src/stun/tnet_stun_attr.h \
+ ../tinyNET/src/stun/tnet_stun_types.h ../tinySAK/src/tsk_buffer.h \
+ ../tinyNET/src/stun/tnet_stun_utils.h ../tinyNET/src/tnet_socket.h \
+ ../tinySAK/src/tsk_params.h ../tinyNET/src/ice/tnet_ice_ctx.h \
+ ../tinyNET/src/dns/tnet_dns.h ../tinyNET/src/dns/tnet_dns_message.h \
+ ../tinyNET/src/dns/tnet_dns_rr.h ../tinyNET/src/tnet_utils.h \
+ ../tinyNET/src/dns/tnet_dns_naptr.h ../tinyNET/src/dns/tnet_dns_regexp.h \
+ ../tinyNET/src/dns/tnet_dns_resolvconf.h ../tinyNET/src/dhcp/tnet_dhcp.h \
+ ../tinyNET/src/dhcp/tnet_dhcp_message.h \
+ ../tinyNET/src/dhcp/tnet_dhcp_option.h ../tinyNET/src/tnet_hardwares.h \
+ ../tinyNET/src/dhcp/tnet_dhcp_option_sip.h \
+ ../tinyNET/src/dhcp6/tnet_dhcp6.h \
+ ../tinyNET/src/dhcp6/tnet_dhcp6_message.h \
+ ../tinyNET/src/dhcp6/tnet_dhcp6_option.h \
+ ../tinyNET/src/dhcp6/tnet_dhcp6_duid.h \
+ ../tinyNET/src/dhcp6/tnet_dhcp6_option.h \
+ ../tinyRTP/include/tinyrtp/rtp/trtp_rtp_packet.h \
+ ../tinyRTP/include/tinyrtp/rtp/trtp_rtp_header.h
+
+include/tinydav/t140/tdav_session_t140.h:
+
+include/tinydav_config.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/lib/gcc/i686-linux-android/4.9.x/include/stdint.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/stdint.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/lib/gcc/i686-linux-android/4.9.x/include/stddef.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/_types.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/machine/_types.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/_wchar_limits.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/android/api-level.h:
+
+../config.h:
+
+include/tinydav/tdav_session_av.h:
+
+../tinyMEDIA/include/tinymedia/tmedia_session.h:
+
+../tinyMEDIA/include/tinymedia_config.h:
+
+../tinyMEDIA/include/tinymedia/tmedia_codec.h:
+
+../tinyMEDIA/include/tinymedia/tmedia_common.h:
+
+../tinySAK/src/tsk_plugin.h:
+
+../tinySAK/src/tinysak_config.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/string.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/cdefs.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/cdefs_elf.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/malloc.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/lib/gcc/i686-linux-android/4.9.x/include/stdarg.h:
+
+../tinySAK/src/tsk_common.h:
+
+../tinySAK/src/tsk_object.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/stdio.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/types.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/posix_types.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/stddef.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/compiler.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/lib/gcc/i686-linux-android/4.9.x/include-fixed/asm/posix_types.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/features.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/posix_types.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/posix_types_32.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/types.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/types.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/machine/kernel.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/sysmacros.h:
+
+../tinySAK/src/tsk_object.h:
+
+../tinySAK/src/tsk_list.h:
+
+../tinySAK/src/tsk_mutex.h:
+
+../tinyMEDIA/include/tinymedia/tmedia_qos.h:
+
+../tinySDP/include/tinysdp/tsdp_message.h:
+
+../tinySDP/include/tinysdp_config.h:
+
+../tinySDP/include/tinysdp/headers/tsdp_header.h:
+
+../tinySAK/src/tsk_ragel_state.h:
+
+../tinySAK/src/tsk_params.h:
+
+../tinySAK/src/tsk_list.h:
+
+../tinySAK/src/tsk_buffer.h:
+
+../tinySDP/include/tinysdp/headers/tsdp_header_M.h:
+
+../tinySDP/include/tinysdp/headers/tsdp_header_A.h:
+
+../tinySDP/include/tinysdp/headers/tsdp_header_B.h:
+
+../tinySDP/include/tinysdp/headers/tsdp_header_C.h:
+
+../tinySDP/include/tinysdp/headers/tsdp_header_I.h:
+
+../tinySDP/include/tinysdp/headers/tsdp_header_K.h:
+
+../tinySAK/src/tsk_string.h:
+
+../tinyMEDIA/include/tinymedia/tmedia_params.h:
+
+../tinyMEDIA/include/tinymedia/tmedia_common.h:
+
+../tinyNET/src/tnet_nat.h:
+
+../tinyNET/src/tinynet_config.h:
+
+../tinyNET/src/tnet_socket.h:
+
+../tinyNET/src/tnet_types.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/socket.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/socket.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/socket.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm-generic/socket.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/sockios.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/sockios.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/uio.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/select.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/time.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/time.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/signal.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/lib/gcc/i686-linux-android/4.9.x/include-fixed/limits.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/lib/gcc/i686-linux-android/4.9.x/include-fixed/syslimits.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/limits.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/limits.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/limits.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/machine/internal_types.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/machine/limits.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/syslimits.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/page.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/page_32.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/signal.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm-generic/signal.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/sigcontext.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/siginfo.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm-generic/siginfo.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/ucontext.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/user.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/netinet/in.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/endian.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/endian.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/in.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/byteorder.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/byteorder/little_endian.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/byteorder/swab.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/byteorder/generic.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/in6.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/ipv6.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/netinet/in6.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/arpa/inet.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/netdb.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/fcntl.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/fcntl.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/fcntl.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm-generic/fcntl.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/unistd.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/sysconf.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/capability.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/pathconf.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/ioctl.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/ioctl.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/ioctl.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm-generic/ioctl.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/ioctls.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/termbits.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sys/ioctl_compat.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/net/if.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/if.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/hdlc/ioctl.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/poll.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/poll.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/poll.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm-generic/poll.h:
+
+../tinySAK/src/tsk_errno.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/errno.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/linux/errno.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm/errno.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm-generic/errno.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/asm-generic/errno-base.h:
+
+../tinyNET/src/tls/tnet_tls.h:
+
+../tinyNET/src/tinynet_config.h:
+
+../tinyNET/src/tnet_types.h:
+
+../tinyNET/src/tls/tnet_dtls.h:
+
+../tinyNET/src/stun/tnet_stun_types.h:
+
+../tinySAK/src/tsk_debug.h:
+
+../tinySAK/src/tsk_safeobj.h:
+
+../tinySAK/src/tsk_timer.h:
+
+include/tinydav/t140/tdav_consumer_t140.h:
+
+../tinyMEDIA/include/tinymedia/tmedia_consumer.h:
+
+include/tinydav/t140/tdav_producer_t140.h:
+
+../tinyMEDIA/include/tinymedia/tmedia_producer.h:
+
+include/tinydav/codecs/fec/tdav_codec_red.h:
+
+../tinyMEDIA/include/tinymedia/tmedia_defaults.h:
+
+../tinyRTP/include/tinyrtp/trtp_manager.h:
+
+../tinyRTP/include/tinyrtp_config.h:
+
+../tinyRTP/include/tinyrtp/rtp/trtp_rtp_session.h:
+
+../tinyRTP/include/tinyrtp/rtcp/trtp_rtcp_session.h:
+
+../tinyRTP/include/tinyrtp/trtp_srtp.h:
+
+../tinySAK/src/tsk_common.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/srtp.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/crypto_kernel.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/rand_source.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/err.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/datatypes.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/integers.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/config.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/stdlib.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/alloca.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/strings.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/memory.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/inttypes.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/alloc.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/time.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/byteswap.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/prng.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/aes.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/gf2_8.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/aes_icm.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/cipher.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/rdbx.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/crypto.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/crypto_types.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/auth.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/cryptoalg.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/stat.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/thirdparties/android/common/include/srtp/key.h:
+
+../tinyNET/src/tinynet.h:
+
+../tinySAK/src/tsk.h:
+
+../tinySAK/src/tsk_string.h:
+
+../tinySAK/src/tsk_memory.h:
+
+../tinySAK/src/tsk_url.h:
+
+../tinySAK/src/tsk_plugin.h:
+
+../tinySAK/src/tsk_options.h:
+
+../tinySAK/src/tsk_fsm.h:
+
+../tinySAK/src/tsk_safeobj.h:
+
+../tinySAK/src/tsk_time.h:
+
+../tinySAK/src/tsk_timer.h:
+
+../tinySAK/src/tsk_condwait.h:
+
+../tinySAK/src/tsk_semaphore.h:
+
+../tinySAK/src/tsk_thread.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/pthread.h:
+
+/Users/ahmedabobakr/AndroidStudioProjects/IMS/doubango-master/my-android-toolchain-android-x86/sysroot/usr/include/sched.h:
+
+../tinySAK/src/tsk_runnable.h:
+
+../tinySAK/src/tsk_debug.h:
+
+../tinySAK/src/tsk_ppfcs16.h:
+
+../tinySAK/src/tsk_sha1.h:
+
+../tinySAK/src/tsk_md5.h:
+
+../tinySAK/src/tsk_hmac.h:
+
+../tinySAK/src/tsk_base64.h:
+
+../tinySAK/src/tsk_uuid.h:
+
+../tinySAK/src/tsk_ragel_state.h:
+
+../tinyNET/src/tnet.h:
+
+../tinyNET/src/tnet_endianness.h:
+
+../tinyNET/src/tnet_nat.h:
+
+../tinyNET/src/tnet_transport.h:
+
+../tinyNET/src/tnet_utils.h:
+
+../tinySAK/src/tsk_runnable.h:
+
+../tinyNET/src/tnet_proxy_plugin.h:
+
+../tinyNET/src/stun/tnet_stun.h:
+
+../tinyNET/src/ice/tnet_ice_event.h:
+
+../tinyNET/src/ice/tnet_ice_candidate.h:
+
+../tinyNET/src/stun/tnet_stun_pkt.h:
+
+../tinyNET/src/stun/tnet_stun_attr.h:
+
+../tinyNET/src/stun/tnet_stun_types.h:
+
+../tinySAK/src/tsk_buffer.h:
+
+../tinyNET/src/stun/tnet_stun_utils.h:
+
+../tinyNET/src/tnet_socket.h:
+
+../tinySAK/src/tsk_params.h:
+
+../tinyNET/src/ice/tnet_ice_ctx.h:
+
+../tinyNET/src/dns/tnet_dns.h:
+
+../tinyNET/src/dns/tnet_dns_message.h:
+
+../tinyNET/src/dns/tnet_dns_rr.h:
+
+../tinyNET/src/tnet_utils.h:
+
+../tinyNET/src/dns/tnet_dns_naptr.h:
+
+../tinyNET/src/dns/tnet_dns_regexp.h:
+
+../tinyNET/src/dns/tnet_dns_resolvconf.h:
+
+../tinyNET/src/dhcp/tnet_dhcp.h:
+
+../tinyNET/src/dhcp/tnet_dhcp_message.h:
+
+../tinyNET/src/dhcp/tnet_dhcp_option.h:
+
+../tinyNET/src/tnet_hardwares.h:
+
+../tinyNET/src/dhcp/tnet_dhcp_option_sip.h:
+
+../tinyNET/src/dhcp6/tnet_dhcp6.h:
+
+../tinyNET/src/dhcp6/tnet_dhcp6_message.h:
+
+../tinyNET/src/dhcp6/tnet_dhcp6_option.h:
+
+../tinyNET/src/dhcp6/tnet_dhcp6_duid.h:
+
+../tinyNET/src/dhcp6/tnet_dhcp6_option.h:
+
+../tinyRTP/include/tinyrtp/rtp/trtp_rtp_packet.h:
+
+../tinyRTP/include/tinyrtp/rtp/trtp_rtp_header.h:
